@@ -1,0 +1,168 @@
+Tfinal cgol
+v7
+r0
+t327900709.370673
+cCheck dependencies
+cCompileC "build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o" "/Users/Wanjun/Desktop/C Programming/final cgol/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B489326000000000000578C
+t1263047462
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BE91B5D0000000000025B59
+t1273568093
+s154457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glext.h
+c000000004BE91B5D0000000000042ACF
+t1273568093
+s273103
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004BE91B5D0000000000003F84
+t1273568093
+s16260
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004AC59C82000000000000178E
+t1254464642
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol
+t2
+s0
+
+N/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/final cgol.LinkFileList
+c000000004DDB26A4000000000000007A
+t1306207908
+s122
+
+N/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o
+t1306207908
+s10540
+
+N/Users/Wanjun/Desktop/C Programming/final cgol/main.c
+c000000004DDB26A40000000000001856
+t1306207908
+s6230
+i<string.h>
+i<stdio.h>
+i<math.h>
+i<stdlib.h>
+i<time.h>
+i<GLUT/glut.h>
+i<OpenGL/glext.h>
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<unistd.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327900708#327900708#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o" "/Users/Wanjun/Desktop/C Programming/final cgol/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s327900708.663470
+e327900709.002124
+r1
+xCompileC
+xbuild/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o
+x/Users/Wanjun/Desktop/C Programming/final cgol/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Wanjun/Desktop/C Programming/final cgol/main.c327900708#327900709#0(213"/Users/Wanjun/Desktop/C Programming/final cgol/main.c:37: warning: initialization from incompatible pointer type/Users/Wanjun/Desktop/C Programming/final cgol/main.c:12: warning: 'leftFirst' defined but not used2(22@45"Initialization from incompatible pointer type327900708#0#113#0(6@53"/Users/Wanjun/Desktop/C Programming/final cgol/main.c327900708#37#0#37#0#45"initialization from incompatible pointer type0(22@32"'leftFirst' defined but not used327900709#113#100#0(6@53"/Users/Wanjun/Desktop/C Programming/final cgol/main.c327900708#12#0#12#0#24"'*' defined but not used0(0#0#53"/Users/Wanjun/Desktop/C Programming/final cgol/main.c3417213339966598656#1434"    cd "/Users/Wanjun/Desktop/C Programming/final cgol"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/final cgol-generated-files.hmap" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/final cgol-own-target-headers.hmap" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/final cgol-all-target-headers.hmap" -iquote "/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/final cgol-project-headers.hmap" "-F/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/include" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/DerivedSources/x86_64" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/DerivedSources" -c "/Users/Wanjun/Desktop/C Programming/final cgol/main.c" -o "/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol" normal x86_64
+s327900709.002218
+e327900709.370617
+r0
+xLd
+x/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol
+xnormal
+xx86_64
+oUndefined symbols:
+o  "_glutInitWindowSize", referenced from:
+o      _main in main.o
+o  "_glEnable", referenced from:
+o      _init in main.o
+o  "_glFlush", referenced from:
+o      _drawBoard in main.o
+o  "_glRectf", referenced from:
+o      _drawBoard in main.o
+o  "_glBlendFunc", referenced from:
+o      _init in main.o
+o  "_glShadeModel", referenced from:
+o      _init in main.o
+o  "_glViewport", referenced from:
+o      _reshape in main.o
+o  "_glutDisplayFunc", referenced from:
+o      _main in main.o
+o  "_glLoadIdentity", referenced from:
+o      _reshape in main.o
+o  "_glColor3f", referenced from:
+o      _drawBoard in main.o
+o  "_glMatrixMode", referenced from:
+o      _reshape in main.o
+o  "_glutInitDisplayMode", referenced from:
+o      _main in main.o
+o  "_glutCreateWindow", referenced from:
+o      _main in main.o
+o  "_glutMainLoop", referenced from:
+o      _main in main.o
+o  "_gluOrtho2D", referenced from:
+o      _reshape in main.o
+o      _reshape in main.o
+o  "_glutReshapeFunc", referenced from:
+o      _main in main.o
+o  "_glutInit", referenced from:
+o      _main in main.o
+o  "_glutKeyboardFunc", referenced from:
+o      _main in main.o
+o  "_glClearColor", referenced from:
+o      _init in main.o
+o  "_glPushMatrix", referenced from:
+o      _drawBoard in main.o
+o  "_glutPostRedisplay", referenced from:
+o      _keyboard in main.o
+o  "_glClear", referenced from:
+o      _drawBoard in main.o
+o  "_glPopMatrix", referenced from:
+o      _drawBoard in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@74"Link /Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol327900709#327900709#0(1486"Undefined symbols:  "_glutInitWindowSize", referenced from:      _main in main.o  "_glEnable", referenced from:      _init in main.o  "_glFlush", referenced from:      _drawBoard in main.o  "_glRectf", referenced from:      _drawBoard in main.o  "_glBlendFunc", referenced from:      _init in main.o  "_glShadeModel", referenced from:      _init in main.o  "_glViewport", referenced from:      _reshape in main.o  "_glutDisplayFunc", referenced from:      _main in main.o  "_glLoadIdentity", referenced from:      _reshape in main.o  "_glColor3f", referenced from:      _drawBoard in main.o  "_glMatrixMode", referenced from:      _reshape in main.o  "_glutInitDisplayMode", referenced from:      _main in main.o  "_glutCreateWindow", referenced from:      _main in main.o  "_glutMainLoop", referenced from:      _main in main.o  "_gluOrtho2D", referenced from:      _reshape in main.o      _reshape in main.o  "_glutReshapeFunc", referenced from:      _main in main.o  "_glutInit", referenced from:      _main in main.o  "_glutKeyboardFunc", referenced from:      _main in main.o  "_glClearColor", referenced from:      _init in main.o  "_glPushMatrix", referenced from:      _drawBoard in main.o  "_glutPostRedisplay", referenced from:      _keyboard in main.o  "_glClear", referenced from:      _drawBoard in main.o  "_glPopMatrix", referenced from:      _drawBoard in main.old: symbol(s) not foundcollect2: ld returned 1 exit status49(4@39""_glutInitWindowSize", referenced from:327900709#19#42#0(6@0"327900709#0#0#0#0#0"0(13@15"_main in main.o327900709#61#22#0(6@0"327900709#0#0#0#0#0"0(4@29""_glEnable", referenced from:327900709#83#32#0(6@0"327900709#0#0#0#0#0"0(13@15"_init in main.o327900709#115#22#0(6@0"327900709#0#0#0#0#0"0(4@28""_glFlush", referenced from:327900709#137#31#0(6@0"327900709#0#0#0#0#0"0(13@20"_drawBoard in main.o327900709#168#27#0(6@0"327900709#0#0#0#0#0"0(4@28""_glRectf", referenced from:327900709#195#31#0(6@0"327900709#0#0#0#0#0"0(13@20"_drawBoard in main.o327900709#226#27#0(6@0"327900709#0#0#0#0#0"0(4@32""_glBlendFunc", referenced from:327900709#253#35#0(6@0"327900709#0#0#0#0#0"0(13@15"_init in main.o327900709#288#22#0(6@0"327900709#0#0#0#0#0"0(4@33""_glShadeModel", referenced from:327900709#310#36#0(6@0"327900709#0#0#0#0#0"0(13@15"_init in main.o327900709#346#22#0(6@0"327900709#0#0#0#0#0"0(4@31""_glViewport", referenced from:327900709#368#34#0(6@0"327900709#0#0#0#0#0"0(13@18"_reshape in main.o327900709#402#25#0(6@0"327900709#0#0#0#0#0"0(4@36""_glutDisplayFunc", referenced from:327900709#427#39#0(6@0"327900709#0#0#0#0#0"0(13@15"_main in main.o327900709#466#22#0(6@0"327900709#0#0#0#0#0"0(4@35""_glLoadIdentity", referenced from:327900709#488#38#0(6@0"327900709#0#0#0#0#0"0(13@18"_reshape in main.o327900709#526#25#0(6@0"327900709#0#0#0#0#0"0(4@30""_glColor3f", referenced from:327900709#551#33#0(6@0"327900709#0#0#0#0#0"0(13@20"_drawBoard in main.o327900709#584#27#0(6@0"327900709#0#0#0#0#0"0(4@33""_glMatrixMode", referenced from:327900709#611#36#0(6@0"327900709#0#0#0#0#0"0(13@18"_reshape in main.o327900709#647#25#0(6@0"327900709#0#0#0#0#0"0(4@40""_glutInitDisplayMode", referenced from:327900709#672#43#0(6@0"327900709#0#0#0#0#0"0(13@15"_main in main.o327900709#715#22#0(6@0"327900709#0#0#0#0#0"0(4@37""_glutCreateWindow", referenced from:327900709#737#40#0(6@0"327900709#0#0#0#0#0"0(13@15"_main in main.o327900709#777#22#0(6@0"327900709#0#0#0#0#0"0(4@33""_glutMainLoop", referenced from:327900709#799#36#0(6@0"327900709#0#0#0#0#0"0(13@15"_main in main.o327900709#835#22#0(6@0"327900709#0#0#0#0#0"0(4@31""_gluOrtho2D", referenced from:327900709#857#34#0(6@0"327900709#0#0#0#0#0"0(13@18"_reshape in main.o327900709#891#25#0(6@0"327900709#0#0#0#0#0"0(13@18"_reshape in main.o327900709#916#25#0(6@0"327900709#0#0#0#0#0"0(4@36""_glutReshapeFunc", referenced from:327900709#941#39#0(6@0"327900709#0#0#0#0#0"0(13@15"_main in main.o327900709#980#22#0(6@0"327900709#0#0#0#0#0"0(4@29""_glutInit", referenced from:327900709#1002#32#0(6@0"327900709#0#0#0#0#0"0(13@15"_main in main.o327900709#1034#22#0(6@0"327900709#0#0#0#0#0"0(4@37""_glutKeyboardFunc", referenced from:327900709#1056#40#0(6@0"327900709#0#0#0#0#0"0(13@15"_main in main.o327900709#1096#22#0(6@0"327900709#0#0#0#0#0"0(4@33""_glClearColor", referenced from:327900709#1118#36#0(6@0"327900709#0#0#0#0#0"0(13@15"_init in main.o327900709#1154#22#0(6@0"327900709#0#0#0#0#0"0(4@33""_glPushMatrix", referenced from:327900709#1176#36#0(6@0"327900709#0#0#0#0#0"0(13@20"_drawBoard in main.o327900709#1212#27#0(6@0"327900709#0#0#0#0#0"0(4@38""_glutPostRedisplay", referenced from:327900709#1239#41#0(6@0"327900709#0#0#0#0#0"0(13@19"_keyboard in main.o327900709#1280#26#0(6@0"327900709#0#0#0#0#0"0(4@28""_glClear", referenced from:327900709#1306#31#0(6@0"327900709#0#0#0#0#0"0(13@20"_drawBoard in main.o327900709#1337#27#0(6@0"327900709#0#0#0#0#0"0(4@32""_glPopMatrix", referenced from:327900709#1364#35#0(6@0"327900709#0#0#0#0#0"0(13@20"_drawBoard in main.o327900709#1399#27#0(6@0"327900709#0#0#0#0#0"0(13@19"Symbol(s) not found327900709#1426#24#0(6@0"327900709#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status327900709#1450#36#0(6@0"327900709#0#0#0#0#0"0(0#0#0"8611333920#560"    cd "/Users/Wanjun/Desktop/C Programming/final cgol"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug" "-F/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug" -filelist "/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/final cgol.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol"1#
+

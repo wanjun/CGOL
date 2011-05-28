@@ -1,0 +1,112 @@
+Tfinal cgol
+v7
+r0
+t327979957.015929
+cCheck dependencies
+cCompileC "build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o" "/Users/Wanjun/Desktop/C Programming/final cgol/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B489326000000000000578C
+t1263047462
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BE91B5D0000000000025B59
+t1273568093
+s154457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glext.h
+c000000004BE91B5D0000000000042ACF
+t1273568093
+s273103
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004BE91B5D0000000000003F84
+t1273568093
+s16260
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004AC59C82000000000000178E
+t1254464642
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol
+t1306287157
+s9552
+
+N/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/final cgol.LinkFileList
+c000000004DDB26A4000000000000007A
+t1306207908
+s122
+
+N/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o
+t1306287156
+s5796
+
+N/Users/Wanjun/Desktop/C Programming/final cgol/main.c
+c000000004DDC5C340000000000001184
+t1306287156
+s4484
+i<stdio.h>
+i<stdlib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327979956#327979956#0(0"0(0#1#0"8614373184#0"0#
+
+CCompileC "build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o" "/Users/Wanjun/Desktop/C Programming/final cgol/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s327979956.919639
+e327979956.987494
+r1
+xCompileC
+xbuild/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o
+x/Users/Wanjun/Desktop/C Programming/final cgol/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Wanjun/Desktop/C Programming/final cgol/main.c: In function 'main':
+o/Users/Wanjun/Desktop/C Programming/final cgol/main.c:151: warning: initialization from incompatible pointer type
+lSLF07#2@61"Compile /Users/Wanjun/Desktop/C Programming/final cgol/main.c327979956#327979957#0(189"/Users/Wanjun/Desktop/C Programming/final cgol/main.c: In function 'main':/Users/Wanjun/Desktop/C Programming/final cgol/main.c:151: warning: initialization from incompatible pointer type1(22@45"Initialization from incompatible pointer type327979956#75#114#0(6@53"/Users/Wanjun/Desktop/C Programming/final cgol/main.c327979956#151#0#151#0#45"initialization from incompatible pointer type0(0#0#53"/Users/Wanjun/Desktop/C Programming/final cgol/main.c8614159392#1434"    cd "/Users/Wanjun/Desktop/C Programming/final cgol"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/final cgol-generated-files.hmap" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/final cgol-own-target-headers.hmap" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/final cgol-all-target-headers.hmap" -iquote "/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/final cgol-project-headers.hmap" "-F/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/include" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/DerivedSources/x86_64" "-I/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/DerivedSources" -c "/Users/Wanjun/Desktop/C Programming/final cgol/main.c" -o "/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol" normal x86_64
+s327979956.987599
+e327979957.015878
+r1
+xLd
+x/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol
+xnormal
+xx86_64
+lSLF07#2@74"Link /Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol327979956#327979957#0(0"0(0#0#0"8613595584#560"    cd "/Users/Wanjun/Desktop/C Programming/final cgol"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug" "-F/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug" -filelist "/Users/Wanjun/Desktop/C Programming/final cgol/build/final cgol.build/Debug/final cgol.build/Objects-normal/x86_64/final cgol.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Wanjun/Desktop/C Programming/final cgol/build/Debug/final cgol"0#
+
